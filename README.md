@@ -16,11 +16,11 @@ First, download the PyExecJS wheel file and install it using pip.
 
 ```bash
 pip install PyExecJS-1.5.1-py3-none-any.whl
-` ```bash`
+```
 
 ### Step 2: Run the Script
 After installing the required dependency, use the following command to run the login script:
 
 ```bash
 python szu_login.py --username YOUR_STUDENT_ID --password YOUR_PASSWORD
-` ```bash`
+```
